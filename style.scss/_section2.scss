@@ -1,0 +1,128 @@
+.section2{
+    width: 100%;
+    height: 60vh;
+    
+    margin-top: 70px;
+    overflow:-moz-hidden-unscrollable;
+    .sec2-1{
+        display: flex;
+        justify-content: space-between;
+        padding: 92px 100px;
+        h2{
+font-size: 48px;
+font-weight: 600;
+        }.sec2-1-1{
+            width: 200px;
+            height: 60px;
+            background-color: #E7FAFE;
+border-radius: 16px;
+display: flex;
+align-items: center;
+justify-content: center;
+            p{
+font-size: 16px;
+font-weight: 600;
+            }
+        }
+    }.sec2-2{
+        display: grid;
+        grid-template-columns:182px 182px 182px 182px 182px 182px;
+        grid-template-rows: 185px;
+       justify-content: center;
+      gap: 20px;
+    .sec2-2-1{
+       background-color: white;
+border-radius: 30px;
+display: block;
+text-align: center;
+.div1{
+
+}.div2{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+    }.sec2-2-2{
+        background-color: rgb(159, 198, 153);
+        border-radius: 30px;
+        text-align: center;
+        .div1{
+img{
+margin-top: 10px;
+}
+        }.div2{
+p{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+        }
+    }.sec2-2-3{
+        background-color: rgb(223, 192, 192);
+        border-radius: 30px;
+        text-align: center;
+        .div1{
+            img{
+            margin-top: 10px;
+            }
+                    }.div2{
+            p{
+                margin-top: 20px;
+                font-size: 18px;
+                font-weight: 600;
+                font-family: sans-serif;
+            }
+                    }
+    }.sec2-2-4{
+        background-color: rgb(252, 250, 250);
+        border-radius: 30px;
+        text-align: center;
+        .div1{
+            img{
+            margin-top: 10px;
+            }
+                    }.div2{
+            p{
+                margin-top: 20px;
+                font-size: 18px;
+                font-weight: 600;
+                font-family: sans-serif;
+            }
+                    }
+    }.sec2-2-5{
+        background-color: rgb(236, 240, 191);
+        border-radius: 30px;
+        text-align: center;
+        .div1{
+            img{
+            margin-top: 10px;
+            }
+                    }.div2{
+            p{
+                margin-top: 20px;
+                font-size: 18px;
+                font-weight: 600;
+                font-family: sans-serif;
+            }
+                    }
+    }.sec2-2-6{
+        background-color:rgb(234, 197, 197);
+        border-radius: 30px;
+        text-align: center;
+        .div1{
+            img{
+            margin-top: 10px;
+            }
+                    }.div2{
+            p{
+                margin-top: 20px;
+                font-size: 18px;
+                font-weight: 600;
+                font-family: sans-serif;
+            }
+                    }
+    }
+    }
+}

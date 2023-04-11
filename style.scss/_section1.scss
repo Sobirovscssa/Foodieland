@@ -1,0 +1,155 @@
+
+.section1{
+    width: 1005;
+    height: 90vh;
+   
+    margin-top: 20px;
+    .center{
+        position: absolute;
+        margin-left: 600px;
+        margin-top: 50px;
+    }
+    .section-1{
+        
+        width: 100%;
+        height: 100%;
+        background-color: white;
+        display: flex;
+        border-radius: 50px;
+        margin-left: 80px;
+    .sec1-1{
+        background-image: url(../Rectangle1.png);
+        width:50% ;
+        height: 100%;
+        overflow: hidden; border-top-right-radius: 20px;
+       .s1{
+       margin-left: 50px;
+        margin-top: 50px;
+        display: flex;
+       width: 150px;
+       height: 45px;
+       border-radius: 30px;
+        background-color: white;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        .qolanma{
+width: 24px;
+height: 24px;
+        }p{
+            font-size: 14px;
+            font-weight: 600;
+            align-items: center;
+        }
+       }h1{
+        margin-top: 32px;
+        margin-left: 50px;
+        font-family: sans-serif;
+        width: 450px;
+font-size: 60px;
+font-weight: 600;
+line-height: 60px;
+       }h6{
+        font-size: 16px;
+        font-weight: 400;
+         color: rgba(0, 0, 0, 0.6);
+         width: 450px;
+         height: 56px;
+         line-height: 28px;
+         margin-top: 24px;
+         margin-left: 50px;
+       }.s2{
+        display: flex;
+        gap: 16px;
+        margin-top: 30px;
+        margin-left: 50px;
+        .c1{
+      display: flex;
+      width: 139px;
+      height: 40px;
+      background: rgba(0, 0, 0, 0.05);
+border-radius: 30px;
+align-items: center;
+justify-content: center;
+gap: 10px;
+      img{
+width: 24px;
+height: 24px;
+      }p{
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 16px;
+        color: rgba(0, 0, 0, 0.6);
+      }
+        }.c2{
+display: flex;
+width: 139px;
+height: 40px;
+background: rgba(0, 0, 0, 0.05);
+border-radius: 30px;
+align-items: center;
+justify-content: center;
+gap: 10px;
+img{
+    width: 24px;
+    height: 24px;
+}p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    color: rgba(0, 0, 0, 0.6);
+  }
+        }
+       }.s3{
+        display: flex;
+        margin-top: 104px;
+        margin-left: 50px;
+        gap: 155px;
+        .c3{
+            display: flex;
+            gap: 20px;
+.d1{
+
+}.d2{
+h5{
+font-size: 16px;
+font-weight: 700;
+line-height: 30px;
+}p{
+font-size: 14px;
+font-weight: 500;
+color: rgba(0, 0, 0, 0.6);;
+}
+}
+        }.c4{
+width: 200px;
+height: 60px;
+background-color: black;
+color: white;
+display: flex;
+border-radius: 16px;
+align-items: center;
+justify-content: center;
+gap: 15px;
+p{
+font-size: 14px;
+font-weight: 600px;
+}img{
+    width: 19.5px;
+    height: 19.5px;
+}
+        }
+       }
+
+       
+
+    }.sec1-2{
+        background-image: url(../Mask\ Group.png);
+        width: 50%;
+        height: 100%;
+        border-top-left-radius:20px ;
+   
+   margin-left: -150px;
+    }
+}
+}
